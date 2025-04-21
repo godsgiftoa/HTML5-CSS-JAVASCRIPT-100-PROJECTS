@@ -1,0 +1,5 @@
+{
+    "workbench.editor.showTabs": "multiple",
+    "workbench.editor.wrapTabs": false,
+    "debug.showSubSessionsInToolBar": false
+}
